@@ -1,5 +1,5 @@
 # TODO-List 
-  Todo List made from udemy course: 2021 Complete Web Develoment course from angela yu
+  A Simple NodeJs based Application that helps to add things user wants to do and delete it whenever you are done with it. 
 
 # Technologies Used
 node.js,
