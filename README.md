@@ -10,5 +10,6 @@ mongoose,
 bodyParser,
 loadash,
  
-# Link: https://quiet-fjord-27280.herokuapp.com
+# Link
+https://quiet-fjord-27280.herokuapp.com
 hosted on heroku with mongoDB ATLAS
